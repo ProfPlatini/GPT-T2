@@ -11,4 +11,4 @@ nome = input("Digite o nome do seu personagem: ")
 classe = input("Digite a classe do seu personagem: ")
 skin = input("Digite a skin do seu personagem: ")
 
-print(f"O nome do seu personagem é {nome}, ele está na classe {classe}, e possui uma skin {skin}")
+print(f"Olá! O nome do seu personagem é {nome}, ele está na classe {classe}, e possui uma skin {skin}")
