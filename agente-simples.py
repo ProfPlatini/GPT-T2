@@ -7,7 +7,7 @@ load_dotenv()
 
 agente = Agent(
     #Essa linha, define o modelo do meu agente.
-    model= OpenAIChat(id="gpt-4o-mini"),
+    model= OpenAIChat(id="gpt-5.4-mini"),
     markdown=True
 )
 
